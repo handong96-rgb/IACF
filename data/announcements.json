@@ -143,6 +143,58 @@
         "business_name": "기초연구기반구축(R&D)"
     },
     {
+        "title": "2026년 투·융자 연계 기술개발사업 정책지정형(전략기술 분야) 스케일업 팁스 시행계획 공고",
+        "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1259698&flag=rndList",
+        "ministry": "중소벤처기업부",
+        "agency": "중소기업기술정보진흥원",
+        "form": "개별공고",
+        "type": "본공고",
+        "deadline": "2026-05-01 [D-1]",
+        "deadline_time": "16:00",
+        "contact": "02-736-9042 , 02-736-9107",
+        "amount": "30억원",
+        "business_name": "투·융자연계기술개발(R&D)"
+    },
+    {
+        "title": "2026년도 국내 글로벌 석학 연구역량 활용 지원사업 신규과제 공모",
+        "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1259664&flag=rndList",
+        "ministry": "과학기술정보통신부",
+        "agency": "한국연구재단",
+        "form": "개별공고",
+        "type": "본공고",
+        "deadline": "2026-05-15 [D-15]",
+        "deadline_time": "18:00",
+        "contact": "042-869-6437 , 042-869-6433",
+        "amount": "1.25억원",
+        "business_name": "국내 글로벌 석학 연구역량 활용 지원사업"
+    },
+    {
+        "title": "(강원3) 2026년 전략기술 연구성과 사업화(단년도)",
+        "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1259253&flag=rndList",
+        "ministry": "과학기술정보통신부",
+        "agency": "연구개발특구진흥재단",
+        "form": "개별공고",
+        "type": "본공고",
+        "deadline": "2026-04-30 [D-day]",
+        "deadline_time": "15:00",
+        "contact": "042-865-7082",
+        "amount": "24억원",
+        "business_name": "연구개발특구육성(R&D)"
+    },
+    {
+        "title": "2026년도 중소기업기술혁신개발사업 중소기업유망기술개발(국가전략기술_도메인특화AI모델개발) 시행계획 공고",
+        "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1259416&flag=rndList",
+        "ministry": "중소벤처기업부",
+        "agency": "중소기업기술정보진흥원",
+        "form": "통합공고",
+        "type": "본공고",
+        "deadline": "2026-05-07 [D-7]",
+        "deadline_time": "18:00",
+        "contact": "044-300-0552",
+        "amount": "100억원",
+        "business_name": "중소기업기술혁신개발(R&D)"
+    },
+    {
         "title": "2026년도 한미 전략기술 선행표준화 공동연구사업(美 NIST 협력사업) 신규과제 공모",
         "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1257976&flag=rndList",
         "ministry": "과학기술정보통신부",
@@ -349,6 +401,19 @@
         "contact": "063-238-0716 , 063-238-0722",
         "amount": "114.56억원",
         "business_name": "지역특화작목연구기반고도화(R&D,보조,지역자율)"
+    },
+    {
+        "title": "2026년 전국 토양비옥도 평가 신규과제",
+        "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1256587&flag=rndList",
+        "ministry": "농촌진흥청",
+        "agency": "농촌진흥청",
+        "form": "개별공고",
+        "type": "본공고",
+        "deadline": "2026-04-30 [D-day]",
+        "deadline_time": "18:00",
+        "contact": "063-238-0757 , 063-238-0763 , 063-238-0804",
+        "amount": "62.19억원",
+        "business_name": "국가농업환경종합관리기술개발(R&D)"
     },
     {
         "title": "2026년 첨단바이오 융합인재 양성(RD) 사업 재공고(~2.26(목) 14:00마감)",
