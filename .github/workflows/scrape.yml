@@ -47,27 +47,33 @@ jobs:
         run: python scraper/ntis_scraper.py
 
       - name: last_checked 시간 기록 (항상 실행)
+        shell: python
         run: |
-          python -c "
-    import json, datetime
-    path = 'data/announcements.json'
-    with open(path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    if not isinstance(data, dict):
-        data = {'items': data}
-    kst = datetime.timezone(datetime.timedelta(hours=9))
-    data['last_checked'] = datetime.datetime.now(kst).strftime('%Y-%m-%d %H:%M')
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-          "
+          import json, datetime, os
+          path = 'data/announcements.json'
+          if not os.path.exists(path):
+              data = {'items': [], 'last_checked': '-'}
+          else:
+              with open(path, 'r', encoding='utf-8') as f:
+                  try:
+                      data = json.load(f)
+                  except:
+                      data = {'items': []}
+          if isinstance(data, list):
+              data = {'items': data}
+          kst = datetime.timezone(datetime.timedelta(hours=9))
+          data['last_checked'] = datetime.datetime.now(kst).strftime('%Y-%m-%d %H:%M')
+          with open(path, 'w', encoding='utf-8') as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
 
       - name: 데이터 파일 커밋 & 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git stash push -m "scraper-data" data/announcements.json
-          git pull --rebase origin main
-          git stash pop
           git add data/announcements.json
-          git commit -m "chore: NTIS 공고 데이터 자동 업데이트 $(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M KST')"
+          # 변경사항이 있는지 확인 후 커밋 (없어도 last_checked 때문에 항상 존재함)
+          git commit -m "chore: NTIS 공고 데이터 자동 업데이트 $(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M KST')" || exit 0
+          
+          # 원격 저장소의 최신 내용을 가져와서 현재 커밋 위에 재배치 (충돌 방지)
+          git pull --rebase origin main
           git push origin main
