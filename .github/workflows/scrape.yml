@@ -2,11 +2,19 @@ name: NTIS 공고 수집
 
 on:
   schedule:
-    # 한국시간 기준 하루 4회 (UTC 00:00, 06:00, 12:00, 18:00 = KST 09:00, 15:00, 21:00, 03:00)
+    # 한국시간 기준 하루 6회
+    # KST 00:00 = UTC 15:00 (전날)
+    - cron: '0 15 * * *'
+    # KST 09:00 = UTC 00:00
     - cron: '0 0 * * *'
+    # KST 10:00 = UTC 01:00
+    - cron: '0 1 * * *'
+    # KST 15:00 = UTC 06:00
     - cron: '0 6 * * *'
+    # KST 18:00 = UTC 09:00
+    - cron: '0 9 * * *'
+    # KST 21:00 = UTC 12:00
     - cron: '0 12 * * *'
-    - cron: '0 18 * * *'
   workflow_dispatch:  # 수동 실행 가능
 
 permissions:
@@ -38,14 +46,25 @@ jobs:
       - name: NTIS 공고 수집
         run: python scraper/ntis_scraper.py
 
+      - name: last_checked 시간 기록 (항상 실행)
+        run: |
+          python -c "
+    import json, datetime
+    path = 'data/announcements.json'
+    with open(path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    if not isinstance(data, dict):
+        data = {'items': data}
+    kst = datetime.timezone(datetime.timedelta(hours=9))
+    data['last_checked'] = datetime.datetime.now(kst).strftime('%Y-%m-%d %H:%M')
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+          "
+
       - name: 데이터 파일 커밋 & 푸시
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet data/announcements.json; then
-            echo "변경사항 없음, 스킵"
-            exit 0
-          fi
           git stash push -m "scraper-data" data/announcements.json
           git pull --rebase origin main
           git stash pop
