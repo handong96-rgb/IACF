@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title": "2026년도 차세대광기반연산반도체핵심기술개발사업 신규과제 재공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1265686&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-05-18 [D-9]",
+      "deadline_time": "18:00",
+      "contact": "042-869-7866 , 042-869-7867",
+      "amount": "371.67억원",
+      "business_name": "차세대광기반연산반도체핵심기술개발(R&D)"
+    },
+    {
+      "title": "2026년도 SDV대응가혹환경극복자동차반도체핵심IP원천기술개발사업 신규과제 재공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1265684&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-05-18 [D-9]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6114 , 042-869-7867",
+      "amount": "106.25억원",
+      "business_name": "SDV대응가혹환경극복자동차반도체핵심IP원천기술개발(R&D)"
+    },
+    {
       "title": "2026년도 제조암묵지기반AI모델개발사업 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1262381&flag=rndList",
       "ministry": "산업통상부",
@@ -196,5 +222,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-09 21:50"
+  "last_checked": "2026-05-10 00:42"
 }
