@@ -27,6 +27,19 @@
       "business_name": "SDV대응가혹환경극복자동차반도체핵심IP원천기술개발(R&D)"
     },
     {
+      "title": "2026년 국방핵심기술 연구개발 과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1264102&flag=rndList",
+      "ministry": "방위사업청",
+      "agency": "국방기술진흥연구소",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-26 [D-46]",
+      "deadline_time": "18:00",
+      "contact": "055-751-4542",
+      "amount": "0억원",
+      "business_name": "핵심기술 연구개발 사업"
+    },
+    {
       "title": "2026년도 제조암묵지기반AI모델개발사업 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1262381&flag=rndList",
       "ministry": "산업통상부",
@@ -79,6 +92,32 @@
       "business_name": "산학연 연계 중소벤처 R&BD 지원"
     },
     {
+      "title": "2026년도 제2차 보건의료기술 연구개발사업 신규지원 대상과제 통합공고 안내",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1260385&flag=rndList",
+      "ministry": "보건복지부",
+      "agency": "한국보건산업진흥원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-05-19 [D-8]",
+      "deadline_time": "14:00",
+      "contact": "043-713-8811",
+      "amount": "95억원",
+      "business_name": "한국보건산업진흥원 사업공고"
+    },
+    {
+      "title": "2026년 KISTEP 수탁사업 위탁연구과제 재공모(국가전략기술 핵심인재 지원 기반구축)",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1260379&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국과학기술기획평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-04-14 []",
+      "deadline_time": "11:00",
+      "contact": "043-750-2359 , 043-750-2400",
+      "amount": "3억원",
+      "business_name": "%EA%B5%AD%EA%B0%80%EC%A0%84%EB%9E%B5%EA%B8%B0%EC%88%A0%20%EC%9C%A1%EC%84%B1%20%EA%B8%B0%ED%9A%8D%C2%B7%EB%B6%84%EC%84%9D%20%EC%82%AC%EC%97%85"
+    },
+    {
       "title": "2026년 AI 기반 대학 과학기술 혁신사업(중앙거점) 신규과제 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1260361&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -103,6 +142,19 @@
       "contact": "042-869-6826",
       "amount": "128.55억원",
       "business_name": "기초연구기반구축(R&D)"
+    },
+    {
+      "title": "2026년도 글로벌기업산업기술연계RD 사업 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1260233&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-12 [D-32]",
+      "deadline_time": "18:00",
+      "contact": "053-718-8318 , 053-718-8725",
+      "amount": "25억원",
+      "business_name": "산업기술국제협력(R&D)"
     },
     {
       "title": "(강원3) 2026년 전략기술 연구성과 사업화(다년도)",
@@ -235,5 +287,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-11 11:00"
+  "last_checked": "2026-05-11 14:01"
 }
