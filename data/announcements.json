@@ -53,6 +53,19 @@
       "business_name": "국가간협력기반조성"
     },
     {
+      "title": "2026년도 개도국기후기술실증연구 사업 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1261078&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-05-22 [D-5]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6464",
+      "amount": "24억원",
+      "business_name": "개도국기후기술실증연구"
+    },
+    {
       "title": "2026년도 제2차 보건의료기술 연구개발사업 신규지원 대상과제 통합공고 안내",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1260385&flag=rndList",
       "ministry": "보건복지부",
@@ -196,5 +209,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-17 21:52"
+  "last_checked": "2026-05-18 00:51"
 }
