@@ -40,6 +40,19 @@
       "business_name": "개도국기후기술실증연구"
     },
     {
+      "title": "2026년도 나노소재기술개발사업 신규과제 3차 재공모_(2026)국가전략기술미래소재기술개발-소재HUB",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1266462&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-05-26 [D-8]",
+      "deadline_time": "18:00",
+      "contact": "042-869-7852 , 042-869-7860",
+      "amount": "47.5억원",
+      "business_name": "나노·소재기술개발(R&D)"
+    },
+    {
       "title": "2026년도 나노소재기술개발사업 신규과제 3차 재공모-플랫폼형",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1266461&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -144,6 +157,32 @@
       "business_name": "국가간협력기반조성"
     },
     {
+      "title": "2026년도 정보보호핵심원천기술개발 2차 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1261306&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "정보통신기획평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-05-26 [D-8]",
+      "deadline_time": "15:00",
+      "contact": "042-612-8136",
+      "amount": "25억원",
+      "business_name": "정보보호핵심원천기술개발(R&D,정보화)"
+    },
+    {
+      "title": "2026년도 미래 혁신 선도형 이차전지 원천기술개발 사업",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1266670&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-05-22 [D-4]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6468",
+      "amount": "50억원",
+      "business_name": "미래혁신선도형이차전지원천기술개발(R&D)"
+    },
+    {
       "title": "2026년도 개도국기후기술실증연구 사업 신규과제 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1261078&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -207,6 +246,19 @@
       "contact": "02-3460-5724 , 02-3460-5728",
       "amount": "2.7억원",
       "business_name": "국가간협력기반조성"
+    },
+    {
+      "title": "대학기초연구소지원사업(G-LAMP) 사업 신규 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1259821&flag=rndList",
+      "ministry": "교육부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-02 [D-15]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6114",
+      "amount": "100억원",
+      "business_name": "이공학학술연구기반구축(R&D)"
     },
     {
       "title": "2026년도 우주기술혁신인재양성(RD)사업[우주항공 글로벌 인력양성 및 활용] 신규과제 공고",
@@ -300,5 +352,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-18 19:11"
+  "last_checked": "2026-05-18 21:35"
 }
