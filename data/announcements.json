@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title": "2026년도 나노소재기술개발사업 신규과제 4차 재공모_(2026)국가전략기술미래소재기술개발(미래소재) 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267598&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-01 [D-12]",
+      "deadline_time": "18:00",
+      "contact": "0428697852\n0428697860",
+      "amount": "2,511억원",
+      "business_name": "나노·소재기술개발(R&D)"
+    },
+    {
+      "title": "2026년도 나노소재기술개발사업 신규과제 4차 재공모_(2026)글로벌공급망첨단소재기술개발-나노커넥트 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267597&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-01 [D-12]",
+      "deadline_time": "18:00",
+      "contact": "0428696114\n0428697855",
+      "amount": "2,511억원",
+      "business_name": "나노·소재기술개발(R&D)"
+    },
+    {
       "title": "2026년 제2차 과학기술분야 연구기획과제 재공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1266872&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -339,5 +365,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-20 14:09"
+  "last_checked": "2026-05-20 18:40"
 }
