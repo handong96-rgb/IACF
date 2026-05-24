@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title": "2026년도 제2차 디지털혁신기술국제공동연구 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267960&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "정보통신기획평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-22 [D-29]",
+      "deadline_time": "15:00",
+      "contact": "042-612-8232 , 042-612-8233 , 042-612-8655",
+      "amount": "11.8억원",
+      "business_name": "디지털혁신기술국제공동연구(R&D)"
+    },
+    {
+      "title": "2026년도 신규프로젝트 탐색연구(인공위성부문) 신규기획과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267957&flag=rndList",
+      "ministry": "우주항공청",
+      "agency": "우주항공청",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-22 [D-29]",
+      "deadline_time": "18:00",
+      "contact": "055-856-5016 , 055-856-5017 , 055-856-5018",
+      "amount": "2억원",
+      "business_name": "신규프로젝트 탐색연구(R&D)"
+    },
+    {
+      "title": "2026년도 「양자컴퓨팅기반양자이득도전연구」사업 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267954&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-22 [D-29]",
+      "deadline_time": "18:00",
+      "contact": "042-869-7836",
+      "amount": "75억원",
+      "business_name": "양자컴퓨팅기반양자이득도전연구"
+    },
+    {
+      "title": "2026년도 첨단소재공정고도화 및 기술역량확보기술개발사업 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267891&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-22 [D-29]",
+      "deadline_time": "18:00",
+      "contact": "053-718-8434",
+      "amount": "20억원",
+      "business_name": "첨단소재공정고도화및기술역량확보기술개발"
+    },
+    {
+      "title": "2026년도 제2차 산업기술RD연구기획사업 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267765&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-22 [D-29]",
+      "deadline_time": "18:00",
+      "contact": "053-718-8416",
+      "amount": "5.22억원",
+      "business_name": "산업기술R&D연구기획사업(R&D)"
+    },
+    {
       "title": "2026년도 나노소재기술개발사업 신규과제 4차 재공모_(2026)국가전략기술미래소재기술개발(미래소재) 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267598&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -25,6 +90,19 @@
       "contact": "0428696114\n0428697855",
       "amount": "2,511억원",
       "business_name": "나노·소재기술개발(R&D)"
+    },
+    {
+      "title": "2026년도 반도체첨단세라믹소재부품공정혁신기술개발사업 신규과제 재공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267384&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-05-28 [D-4]",
+      "deadline_time": "14:00",
+      "contact": "042-869-7869",
+      "amount": "284억원",
+      "business_name": "반도체첨단세라믹소재부품공정혁신기술개발사업"
     },
     {
       "title": "2026년도 지속가능 열가소성 항공기 부품 핵심기술개발 사업 신규과제 3차 공고",
@@ -66,6 +144,19 @@
       "business_name": "나노·소재기술개발(R&D)"
     },
     {
+      "title": "2026년 공공혁신수요기반 혁신제품 기술개발 사업 시범구매연계형 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267382&flag=rndList",
+      "ministry": "기타",
+      "agency": "한국조달연구원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-10 [D-17]",
+      "deadline_time": "17:00",
+      "contact": "02-6951-1096 , 02-6951-4498 , 02-6951-4583",
+      "amount": "70억원",
+      "business_name": "공공혁신수요기반혁신제품기술개발(R&D)"
+    },
+    {
       "title": "2026년 바이오헬스 글로벌 석학 멘토십 프로그램 수행기관 모집 공고 안내",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1266208&flag=rndList",
       "ministry": "보건복지부",
@@ -105,6 +196,45 @@
       "business_name": "핵심기술 연구개발 사업"
     },
     {
+      "title": "2027년 미래 판기술 프로젝트 테마 기획을 위한 기술수요조사",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1263116&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-06-19 [D-26]",
+      "deadline_time": "18:00",
+      "contact": "1544-6633 , 053-718-8571 , 053-718-8719",
+      "amount": "250억원",
+      "business_name": "미래 판기술 프로젝트 테마 기획"
+    },
+    {
+      "title": "2026년 한-체코, 한-중국 에너지국제공동RD 신규지원 대상과제 공고_(2026)한-중국 국제공동연구",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1263119&flag=rndList",
+      "ministry": "기후에너지환경부",
+      "agency": "한국에너지기술평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-22 [D-29]",
+      "deadline_time": "18:00",
+      "contact": "02-3469-8431",
+      "amount": "39억원",
+      "business_name": "에너지국제공동연구(R&D)"
+    },
+    {
+      "title": "2026년 한-체코, 한-중국 에너지국제공동RD 신규지원 대상과제 공고_(2027)한-체코 국제공동연구",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1263118&flag=rndList",
+      "ministry": "기후에너지환경부",
+      "agency": "한국에너지기술평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-24 [D-31]",
+      "deadline_time": "18:00",
+      "contact": "02-3469-8431",
+      "amount": "39억원",
+      "business_name": "에너지국제공동연구(R&D)"
+    },
+    {
       "title": "2026년도  신산업 대응 차세대 공통핵심뿌리기술개발사업 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1262865&flag=rndList",
       "ministry": "산업통상부",
@@ -116,6 +246,19 @@
       "contact": "053-718-8273",
       "amount": "23.8억원",
       "business_name": "신산업대응차세대공통·핵심뿌리기술개발사업(R&D)"
+    },
+    {
+      "title": "2026-2027년도 양자연구교류지원사업(베트남, 벨기에, 브라질, 체코, 태국, 튀르키예, 프랑스) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1263046&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-07-01 [D-38]",
+      "deadline_time": "16:00",
+      "contact": "02-3460-5742",
+      "amount": "1.25억원",
+      "business_name": "한국연구재단연구운영비지원(R&D)"
     },
     {
       "title": "2026년도 정보보호핵심원천기술개발 2차 신규지원 대상과제 공고",
@@ -170,6 +313,19 @@
       "business_name": "이공학학술연구기반구축(R&D)"
     },
     {
+      "title": "2026년도 투·융자 연계 기술개발사업 지원계획 공고(딥테크 챌린지 프로젝트_기술도전형)_(2026-DCP-01_원자력)딥테크 챌린지 프로젝트(DCP*))",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1263305&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-23 [D-30]",
+      "deadline_time": "23:59",
+      "contact": "02-2280-0428 , 02-6915-1589 , 061-338-9774 , 061-338-9775",
+      "amount": "250억원",
+      "business_name": "투·융자연계기술개발(R&D)"
+    },
+    {
       "title": "2026년 전국 토양비옥도 평가 신규과제",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1256587&flag=rndList",
       "ministry": "농촌진흥청",
@@ -196,5 +352,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-24 21:56"
+  "last_checked": "2026-05-25 00:55"
 }
