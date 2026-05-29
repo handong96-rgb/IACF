@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title": "[대구경북지원] 2026년 산학연 연계 중소벤처 RBD 지원사업(STEP 4) 재공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1268726&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국과학기술정보연구원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-19 [D-21]",
+      "deadline_time": "23:59",
+      "contact": "053-601-5206 , 053-601-5170",
+      "amount": "0억원",
+      "business_name": "%EC%82%B0%ED%95%99%EC%97%B0%20%EC%97%B0%EA%B3%84%20%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85"
+    },
+    {
       "title": "2026년도 제2차 디지털혁신기술국제공동연구 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1267960&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -495,5 +508,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-29 14:17"
+  "last_checked": "2026-05-29 18:59"
 }
