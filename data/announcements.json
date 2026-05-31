@@ -274,6 +274,19 @@
       "business_name": "이공학학술연구기반구축(R&D)"
     },
     {
+      "title": "2026년도 투·융자 연계 기술개발사업 지원계획 공고(딥테크 챌린지 프로젝트_기술도전형)_(2026)(2026-DCP-18_인공지능_딥테크 챌린지 프로젝트(DCP*))",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1263322&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-23 [D-23]",
+      "deadline_time": "23:59",
+      "contact": "02-2280-0428 , 02-6915-1589 , 061-338-9774 , 061-338-9775",
+      "amount": "50억원",
+      "business_name": "투·융자연계기술개발(R&D)"
+    },
+    {
       "title": "2026년도 투·융자 연계 기술개발사업 지원계획 공고(딥테크 챌린지 프로젝트_기술도전형)_(2026)(2026-DCP-17_인공지능_딥테크 챌린지 프로젝트(DCP*))",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1263321&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -508,5 +521,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-05-31 20:01"
+  "last_checked": "2026-05-31 22:10"
 }
