@@ -157,6 +157,45 @@
       "business_name": "한국보건산업진흥원 사업공고"
     },
     {
+      "title": "2026년도 중소기업기술혁신개발사업 글로벌협력형RD(자유공모형_일반) 제2차 시행계획 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1264382&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-01 [D-day]",
+      "deadline_time": "18:00",
+      "contact": "044-300-0551 , 044-300-0552 , 044-300-0554 , 044-300-0556 , 044-300-0557 , 044-300-0559 , 044-300-0564 , 044-300-0565 , 044-300-0566 , 044-300-0568",
+      "amount": "16.7억원",
+      "business_name": "중소기업기술혁신개발(R&D)"
+    },
+    {
+      "title": "2026년도 중소기업기술혁신개발사업 글로벌협력형RD(에코브릿지_수요품목) 제2차 시행계획 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1264381&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-01 [D-day]",
+      "deadline_time": "18:00",
+      "contact": "044-300-0551 , 044-300-0552 , 044-300-0554 , 044-300-0556 , 044-300-0557 , 044-300-0559 , 044-300-0564 , 044-300-0565 , 044-300-0566 , 044-300-0568",
+      "amount": "16.7억원",
+      "business_name": "중소기업기술혁신개발(R&D)"
+    },
+    {
+      "title": "2026년도 중소기업기술혁신개발사업 글로벌협력형RD(에코브릿지_자유품목) 제2차 시행계획 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1264380&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-06-01 [D-day]",
+      "deadline_time": "18:00",
+      "contact": "044-300-0551 , 044-300-0552 , 044-300-0554 , 044-300-0556 , 044-300-0557 , 044-300-0559 , 044-300-0564 , 044-300-0565 , 044-300-0566 , 044-300-0568",
+      "amount": "16.7억원",
+      "business_name": "중소기업기술혁신개발(R&D)"
+    },
+    {
       "title": "2026년 국방핵심기술 연구개발 과제 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1264102&flag=rndList",
       "ministry": "방위사업청",
@@ -703,5 +742,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-06-01 20:42"
+  "last_checked": "2026-06-02 00:25"
 }
