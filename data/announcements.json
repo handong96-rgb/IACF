@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "title": "2026년도 한국형 ARPA-H 프로젝트 신규지원 대상과제 통합공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1269018&flag=rndList",
-      "ministry": "보건복지부",
-      "agency": "한국보건산업진흥원",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-07-01 [D-20]",
-      "deadline_time": "14:00",
-      "contact": "02-2288-6146",
-      "amount": "1,620억원",
-      "business_name": "한국보건산업진흥원 사업공고"
-    },
-    {
       "title": "팬데믹 대비 mRNA 백신 개발 지원사업 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1269671&flag=rndList",
       "ministry": "질병관리청",
@@ -38,19 +25,6 @@
       "contact": "042-869-7837",
       "amount": "90억원",
       "business_name": "과학기술혁신인재양성(R&D)"
-    },
-    {
-      "title": "2026년도 2차 전력정보화 및 정책지원사업(신재생에너지 분야) 신규지원 대상과제 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1269498&flag=rndList",
-      "ministry": "기후에너지환경부",
-      "agency": "한국에너지공단",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-07-02 [D-21]",
-      "deadline_time": "15:00",
-      "contact": "052-920-0684",
-      "amount": "5.05억원",
-      "business_name": "전력정보화및정책지원(전력기금)(R&D)"
     },
     {
       "title": "2026년도 제2차 국가신약개발사업 신규지원 대상과제 통합공고",
@@ -703,5 +677,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-06-11 11:35"
+  "last_checked": "2026-06-11 14:56"
 }
