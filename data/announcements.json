@@ -79,6 +79,19 @@
       "business_name": "바이오산업기술개발(R&D)"
     },
     {
+      "title": "2026년도 재난안전 중점기술 로드맵 연계형 기술개발사업  신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1268334&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-06-26 [D-8]",
+      "deadline_time": "18:00",
+      "contact": "053-718-8241",
+      "amount": "25억원",
+      "business_name": "재난안전중점기술로드맵연계형기술개발"
+    },
+    {
       "title": "2026년도 연구안보 역량강화 신규과제 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1268096&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -729,5 +742,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-06-18 21:29"
+  "last_checked": "2026-06-18 23:42"
 }
