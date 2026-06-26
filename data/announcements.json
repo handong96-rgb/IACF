@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "title": "2026년도 AI 완전자율운항선박 기술개발사업 신규과제 선정계획 공고_(2026)2026년도 AI 완전자율운항선박 기술개발사업 신규과제 선정계획 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270630&flag=rndList",
-      "ministry": "해양수산부",
-      "agency": "해양수산과학기술진흥원",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-07-14 [D-18]",
-      "deadline_time": "18:00",
-      "contact": "0234600333",
-      "amount": "0억원",
-      "business_name": "AI완전자율운항선박기술개발사업(R&D)"
-    },
-    {
       "title": "2026년도 제3차 첨단재생의료 임상연구 활성화 지원 사업 신규과제 공고_1. [일반형] 첨단재생의료 임상연구 지원",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270088&flag=rndList",
       "ministry": "보건복지부",
@@ -352,5 +339,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-06-26 14:13"
+  "last_checked": "2026-06-26 18:32"
 }
