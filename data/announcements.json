@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title": "민·군규격표준화사업 연구개발과제 주관연구개발기관 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272403&flag=rndList",
+      "ministry": "방위사업청",
+      "agency": "국방기술품질원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-07-30 [D-29]",
+      "deadline_time": "17:00",
+      "contact": "042-251-5472",
+      "amount": "0억원",
+      "business_name": "%EB%AF%BC%EA%B5%B0%EA%B8%B0%EC%88%A0%ED%98%91%EB%A0%A5(%EB%B0%A9%EC%82%AC%EC%B2%AD)"
+    },
+    {
+      "title": "2026년 글로벌 공동연구 촉진사업 - 양자 매칭(중국) 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271296&flag=rndList",
+      "ministry": "기타",
+      "agency": "국가과학기술연구회",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-07-31 [D-30]",
+      "deadline_time": "18:00",
+      "contact": "044-287-7312",
+      "amount": "0.5억원",
+      "business_name": "글로벌 공동연구 촉진과제"
+    },
+    {
+      "title": "'26년 민·군규격표준화사업 신규연구개발과제 RFP 사전공고 및 설명회 개최 안내",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271349&flag=rndList",
+      "ministry": "방위사업청",
+      "agency": "국방기술품질원",
+      "form": "개별공고",
+      "type": "사전공고",
+      "deadline": "2026-06-30 []",
+      "deadline_time": "12:00",
+      "contact": "042-251-5472",
+      "amount": "0억원",
+      "business_name": "%25EB%25AF%25BC%25EA%25B5%25B0%25EA%25B8%25B0%25EC%2588%25A0%25ED%2598%2591%25EB%25A0%25A5(%25EB%25B0%25A9%25EC%2582%25AC%25EC%25B2%25AD)"
+    },
+    {
       "title": "2026년도 제3차 조선해양산업기술개발사업 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270636&flag=rndList",
       "ministry": "산업통상부",
@@ -365,5 +404,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-07-01 14:27"
+  "last_checked": "2026-07-01 18:54"
 }
