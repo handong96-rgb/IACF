@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title": "2026년 하반기 원자력정책연구사업 재공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272569&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-07-10 [D-5]",
+      "deadline_time": "17:59",
+      "contact": "042-869-7819",
+      "amount": "1.4억원",
+      "business_name": "한국연구재단기획평가관리비(원기금)(R&D)"
+    },
+    {
+      "title": "2026년 제2차 범부처 첨단 의료기기 연구개발사업 신규지원 대상과제 재공고_(2026)[2내역] 의료기기 코어기술 및 제품 개발",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272698&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "재단법인 범부처의료기기연구개발사업단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-07-10 [D-5]",
+      "deadline_time": "16:00",
+      "contact": "02-6328-0336",
+      "amount": "97.5억원",
+      "business_name": "범부처첨단의료기기연구개발(산업통상부)"
+    },
+    {
       "title": "민·군규격표준화사업 연구개발과제 주관연구개발기관 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272403&flag=rndList",
       "ministry": "방위사업청",
@@ -14,6 +40,71 @@
       "business_name": "%EB%AF%BC%EA%B5%B0%EA%B8%B0%EC%88%A0%ED%98%91%EB%A0%A5(%EB%B0%A9%EC%82%AC%EC%B2%AD)"
     },
     {
+      "title": "2026년 중소기업 수출 핵심품목 탄소감축 기술개발사업 하반기 시행계획 추가 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272234&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-07-13 [D-8]",
+      "deadline_time": "18:00",
+      "contact": "044-300-0532",
+      "amount": "55억원",
+      "business_name": "중소기업수출핵심품목탄소감축기술개발(R&D)"
+    },
+    {
+      "title": "2026년 휴먼프론티어과학프로그램(HFSP) 협력사업(사전지원) 신규과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272232&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-07-31 [D-26]",
+      "deadline_time": "18:00",
+      "contact": "02-3460-5733",
+      "amount": "670억원",
+      "business_name": "국가간협력기반조성"
+    },
+    {
+      "title": "2026년 산업혁신인재성장지원(해외연계) - 최고급 해외인재유치 지원사업 시행계획 추가 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272231&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-27 [D-53]",
+      "deadline_time": "18:00",
+      "contact": "02-6009-3000",
+      "amount": "13.095억원",
+      "business_name": "산업혁신인재성장지원(R&D)"
+    },
+    {
+      "title": "2026년도 한중핵심공동연구사업(Key Joint Research Program) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272070&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-11 [D-37]",
+      "deadline_time": "18:00",
+      "contact": "02-3460-5747",
+      "amount": "1.8억원",
+      "business_name": "한국연구재단연구운영비지원(R&D)"
+    },
+    {
+      "title": "2026년 한-캐나다 이공계 대학원생 연수프로그램 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271347&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-20 [D-46]",
+      "deadline_time": "17:00",
+      "contact": "02-3460-5703 , 02-3460-5705",
+      "amount": "1.85억원",
+      "business_name": "국가간협력기반조성"
+    },
+    {
       "title": "2026년 글로벌 공동연구 촉진사업 - 양자 매칭(중국) 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271296&flag=rndList",
       "ministry": "기타",
@@ -25,6 +116,19 @@
       "contact": "044-287-7312",
       "amount": "0.5억원",
       "business_name": "글로벌 공동연구 촉진과제"
+    },
+    {
+      "title": "2026년도 한-체코 공동연구사업 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271016&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-07-30 [D-25]",
+      "deadline_time": "18:00",
+      "contact": "02-3460-5724 , 02-3460-5728",
+      "amount": "5억원",
+      "business_name": "국가간협력기반조성"
     },
     {
       "title": "2026년도 제3차 조선해양산업기술개발사업 신규지원 대상과제 공고",
@@ -105,6 +209,45 @@
       "business_name": "조선해양산업기술개발(R&D)"
     },
     {
+      "title": "2026년도 방사선이용 기술개발사업(방사선 기반 소재·장비 기술 혁신화) 신규과제 공모 (300 keV급 전자빔 조사장치 국산화 개발) 접수",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271681&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-07-09 [D-4]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6114",
+      "amount": "165억원",
+      "business_name": "방사선기반 소재장비기술 혁신화"
+    },
+    {
+      "title": "2026년 이공계 연구생활장려금 지원 사업 하반기 신규과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271295&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-07-20 [D-15]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6452 , 042-869-6456",
+      "amount": "62.64억원",
+      "business_name": "이공계연구생활장려금(R&D)"
+    },
+    {
+      "title": "2026년도 방사선이용 기술개발사업(방사선 기반 소재·장비 기술 혁신화) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270283&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-07-13 [D-8]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6114",
+      "amount": "165억원",
+      "business_name": "방사선기반 소재장비기술 혁신화"
+    },
+    {
       "title": "2026년도 소부장분야 전문인력양성(데이터융합형 신소재 고급인력양성) 신규과제 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270271&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -116,6 +259,19 @@
       "contact": "042-869-7852 , 042-869-7860",
       "amount": "7.5억원",
       "business_name": "소부장분야전문인력양성(R&D)"
+    },
+    {
+      "title": "2026년도 K-온디바이스 AI반도체 기술개발사업 신규 지원대상 연구개발과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270266&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-07-10 [D-5]",
+      "deadline_time": "18:00",
+      "contact": "053-718-8415",
+      "amount": "1,312억원",
+      "business_name": "K-온디바이스AI반도체기술개발"
     },
     {
       "title": "2026년도 제2차 백신실용화기술개발사업단 신규지원 대상과제 공고",
@@ -209,6 +365,19 @@
       "business_name": "과학기술혁신인재양성(R&D)"
     },
     {
+      "title": "2026년도 중소기업기술혁신개발사업 '중소기업유망기술개발(구조혁신RD)' 하반기 2차 시행계획 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1271297&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-07-06 [D-1]",
+      "deadline_time": "18:00",
+      "contact": "044-300-0414 , 044-300-0534 , 044-300-0538 , 044-300-0543 , 044-300-0544 , 044-300-0546",
+      "amount": "8억원",
+      "business_name": "중소기업기술혁신개발(R&D)"
+    },
+    {
       "title": "2026년도 스페이스파이오니어사업 신규과제 재공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1253341&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -222,5 +391,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-07-05 22:03"
+  "last_checked": "2026-07-06 01:01"
 }
