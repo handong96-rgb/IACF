@@ -183,19 +183,6 @@
       "business_name": "에너지인력양성(R&D)"
     },
     {
-      "title": "바이오·의료기술개발 사업 신규과제 제5차 공모",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270450&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-07-13 [D-4]",
-      "deadline_time": "18:00",
-      "contact": "042-869-7826",
-      "amount": "20억원",
-      "business_name": "바이오.의료기술개발(R&D)"
-    },
-    {
       "title": "2026년도 제2차 국가표준기술력향상사업 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1270448&flag=rndList",
       "ministry": "산업통상부",
@@ -339,5 +326,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-07-09 10:51"
+  "last_checked": "2026-07-09 14:03"
 }
