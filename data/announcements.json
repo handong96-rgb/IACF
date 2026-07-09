@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title": "2026년 고려인삼학회 인삼문화분야 연구과제 공모안내",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272998&flag=rndList",
+      "ministry": "기타",
+      "agency": "(사)고려인삼학회",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-07 [D-29]",
+      "deadline_time": "23:59",
+      "contact": "02-3473-8772",
+      "amount": "0.05억원",
+      "business_name": "기타"
+    },
+    {
+      "title": "2026년 고려인삼학회 연구과제 공모안내",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272994&flag=rndList",
+      "ministry": "기타",
+      "agency": "(사)고려인삼학회",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-07 [D-29]",
+      "deadline_time": "23:59",
+      "contact": "02-3473-8772",
+      "amount": "0.5억원",
+      "business_name": "기타"
+    },
+    {
       "title": "2026년 하반기 원자력정책연구사업 재공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1272569&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -326,5 +352,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-07-09 14:03"
+  "last_checked": "2026-07-09 21:06"
 }
