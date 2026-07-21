@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "title": "2026년도 한-캐나다 양자과학기술 공동연구 프로그램 사전공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1273961&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "통합공고",
-      "type": "사전공고",
-      "deadline": "2026-08-19 [D-29]",
-      "deadline_time": "18:00",
-      "contact": "042-869-7837",
-      "amount": "12억원",
-      "business_name": "양자과학기술 인적기반조성"
-    },
-    {
       "title": "「출연(연) 전략연구사업 평가제도·관리체계 수립」 정책연구과제 재공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1273957&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -391,5 +378,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-07-21 13:18"
+  "last_checked": "2026-07-21 17:33"
 }
