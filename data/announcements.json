@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "title": "[공모] 무기체계 연구개발 시제업체 선정을 위한 제안서 공모문(사업명 : 장거리공대공유도탄 체계개발)",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274315&flag=rndList",
+      "ministry": "방위사업청",
+      "agency": "국방과학연구소",
+      "form": "",
+      "type": "",
+      "deadline": "2026-09-07 [D-46]",
+      "deadline_time": "00:00",
+      "contact": "",
+      "amount": "0억원",
+      "business_name": ""
+    },
+    {
       "title": "무인수상정 항해/항법 센서 데이터 학습 시스템",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274148&flag=rndList",
       "ministry": "방위사업청",
@@ -339,5 +352,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-07-23 13:19"
+  "last_checked": "2026-07-23 17:34"
 }
