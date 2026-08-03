@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title": "2026년도 기관고유사업 신규 위탁연구과제 공고(~8.17.)",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1275141&flag=rndList",
+      "ministry": "해양수산부",
+      "agency": "해양과학기술원 부설 극지연구소",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-08-17 [D-14]",
+      "deadline_time": "18:00",
+      "contact": "032-770-8625",
+      "amount": "2.6억원",
+      "business_name": "%EA%B7%B9%EC%A7%80%EC%97%B0%EA%B5%AC%EC%86%8C%20%EA%B8%B0%EA%B4%80%EA%B3%A0%EC%9C%A0%EC%82%AC%EC%97%85%20%EC%9C%84%ED%83%81%EC%97%B0%EA%B5%AC%EA%B3%BC%EC%A0%9C"
+    },
+    {
+      "title": "2026년 하반기 원자력정책연구사업 2차 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1275087&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-14 [D-11]",
+      "deadline_time": "17:59",
+      "contact": "042-869-7819",
+      "amount": "0.7억원",
+      "business_name": "한국연구재단기획평가관리비(원기금)(R&D)"
+    },
+    {
+      "title": "디스플레이첨단산업기술개발(가칭) 기술수요조사",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274973&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-08-12 [D-9]",
+      "deadline_time": "18:00",
+      "contact": "1544-6633",
+      "amount": "0억원",
+      "business_name": "관련정보없음"
+    },
+    {
+      "title": "범부처 신속대응 RD IITP 전담 지정 과제_(2026)신속대응 연구개발 과제 협약 체결",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274873&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "정보통신기획평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-07 [D-4]",
+      "deadline_time": "23:59",
+      "contact": "042-612-8135",
+      "amount": "0억원",
+      "business_name": "범부처 현장수요 신속대응 연구개발(R&D)"
+    },
+    {
+      "title": "2026년도 제3차 산업기술RD연구기획사업 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274798&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-27 [D-24]",
+      "deadline_time": "18:00",
+      "contact": "053-718-8416",
+      "amount": "0.5억원",
+      "business_name": "산업기술R&D연구기획사업(R&D)"
+    },
+    {
       "title": "2026년도 한-캐나다 양자과학기술 공동연구 프로그램 사전공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1273961&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -157,6 +222,45 @@
       "business_name": "연구개발특구규제샌드박스수요발굴"
     },
     {
+      "title": "2026년도 투·융자 연계 기술개발사업 지원계획 수정 공고(스케일업 팁스)_(2026)(특화형, 26-2차) 스케일업 팁스 RD 지원계획 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274913&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-14 [D-11]",
+      "deadline_time": "18:00",
+      "contact": "02-2280-0422 , 02-2280-0426 , 02-2280-0427",
+      "amount": "30억원",
+      "business_name": "투·융자연계기술개발(R&D)"
+    },
+    {
+      "title": "2026년도 투·융자 연계 기술개발사업 지원계획 수정 공고(글로벌 팁스)_(2026)(특화형, 26-2차) 글로벌 팁스 RD 지원계획 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274911&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-14 [D-11]",
+      "deadline_time": "18:00",
+      "contact": "02-2280-0422 , 02-2280-0426 , 02-2280-0427",
+      "amount": "60억원",
+      "business_name": "투·융자연계기술개발(R&D)"
+    },
+    {
+      "title": "2026년도 투·융자 연계 기술개발사업 지원계획 수정 공고(스케일업 팁스)_(2026)(일반형, 재평가 1차) 스케일업 팁스 RD 지원계획 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274759&flag=rndList",
+      "ministry": "중소벤처기업부",
+      "agency": "중소기업기술정보진흥원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-08-13 [D-10]",
+      "deadline_time": "18:00",
+      "contact": "02-2280-0422 , 02-2280-0426 , 02-2280-0427",
+      "amount": "20억원",
+      "business_name": "투·융자연계기술개발(R&D)"
+    },
+    {
       "title": "2027년 제18차 일본 HOPE Meeting 참가자 모집 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274560&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -215,7 +319,7 @@
       "agency": "한국산업기술기획평가원",
       "form": "통합공고",
       "type": "수요조사",
-      "deadline": "2026-08-05 [D-2]",
+      "deadline": "2026-08-13 [D-10]",
       "deadline_time": "18:00",
       "contact": "1544-6633",
       "amount": "0억원",
@@ -352,5 +456,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-08-03 13:34"
+  "last_checked": "2026-08-03 18:51"
 }
