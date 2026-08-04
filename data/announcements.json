@@ -326,19 +326,6 @@
       "business_name": "미래치안도전기술개발(R&D)"
     },
     {
-      "title": "2027년 산업기술 RD사업(디스플레이, 스마트전자, 배터리 분야) 추가 기술수요조사",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1273126&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술기획평가원",
-      "form": "통합공고",
-      "type": "수요조사",
-      "deadline": "2026-08-13 [D-9]",
-      "deadline_time": "18:00",
-      "contact": "1544-6633",
-      "amount": "0억원",
-      "business_name": "관련정보없음"
-    },
-    {
       "title": "2026년도 국제공동연구 신속지원사업(미국 제네시스 미션과의 협력을 위한 탐색연구) 신규과제 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1273125&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -469,5 +456,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-08-04 10:22"
+  "last_checked": "2026-08-04 13:17"
 }
