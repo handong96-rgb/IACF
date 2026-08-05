@@ -53,19 +53,6 @@
       "business_name": "관련정보없음"
     },
     {
-      "title": "범부처 신속대응 RD IITP 전담 지정 과제_(2026)신속대응 연구개발 과제 협약 체결",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274873&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "정보통신기획평가원",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-08-07 [D-2]",
-      "deadline_time": "23:59",
-      "contact": "042-612-8135",
-      "amount": "0억원",
-      "business_name": "범부처 현장수요 신속대응 연구개발(R&D)"
-    },
-    {
       "title": "2026년도 제3차 산업기술RD연구기획사업 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1274798&flag=rndList",
       "ministry": "산업통상부",
@@ -430,5 +417,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-08-05 10:27"
+  "last_checked": "2026-08-05 13:15"
 }
