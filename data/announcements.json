@@ -183,32 +183,6 @@
       "business_name": "지역연구개발혁신지원(R&D)"
     },
     {
-      "title": "2027년 상반기  선정계획 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277669&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-10-08 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "042-869-6691 , 042-869-6693",
-      "amount": "3.65억원",
-      "business_name": "대한민국 과학기술인상"
-    },
-    {
-      "title": "2026년도 제3차 디지털혁신기술국제공동연구 신규지원 대상과제 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277666&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "정보통신기획평가원",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-10-08 [D-day]",
-      "deadline_time": "15:00",
-      "contact": "042-612-8232 , 042-612-8233 , 042-612-8655",
-      "amount": "11.8억원",
-      "business_name": "디지털혁신기술국제공동연구(R&D)"
-    },
-    {
       "title": "2026년도 우주기술혁신인재양성(RD)사업[우주항공 글로벌 인력양성 및 활용] 2차 추가공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277645&flag=rndList",
       "ministry": "우주항공청",
@@ -222,19 +196,6 @@
       "business_name": "우주기술혁신인재양성(R&D)"
     },
     {
-      "title": "2026년도 미래개척융합과학기술개발사업 신규과제 제4차 공모",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277593&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-10-08 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "042-869-7736",
-      "amount": "36억원",
-      "business_name": "미래개척융합과학기술개발(R&D)"
-    },
-    {
       "title": "중소제조 특화 Multi AI Agent 개발(RD) 점프업 Track 시행계획 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277072&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -246,19 +207,6 @@
       "contact": "044-300-0976",
       "amount": "156억원",
       "business_name": "중소제조특화MultiAIAgent개발(R&D)"
-    },
-    {
-      "title": "[공모] 위탁연구기관 선정을 위한 제안서 공모 (과제명: Fiber-tip 마이크로렌즈를 이용한 자유고간 광결합 모듈 소형화 연구)",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277037&flag=rndList",
-      "ministry": "방위사업청",
-      "agency": "국방과학연구소",
-      "form": "",
-      "type": "",
-      "deadline": "2026-10-08 [D-day]",
-      "deadline_time": "00:00",
-      "contact": "",
-      "amount": "0억원",
-      "business_name": ""
     },
     {
       "title": "국가 제조데이터 라이브러리 구축운영 사업 기획을 위한 수요조사",
@@ -898,5 +846,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-10-09 03:06"
+  "last_checked": "2026-10-09 05:23"
 }
