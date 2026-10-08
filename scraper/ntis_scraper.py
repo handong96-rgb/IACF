@@ -87,11 +87,20 @@ def scrape_ntis():
             cols = row.find_all("td")
             if len(cols) < 8: continue
 
-            a_tag = row.find("a", href=re.compile(r"roRndUid"))
-            if not a_tag: continue
+            # NTIS가 링크 방식을 바꿈: href="...view.do?roRndUid=123" → onclick="fn_view('123')"
+            # 두 방식 모두 지원
+            uid = None
+            a_tag = None
+            for a in row.find_all("a"):
+                m = re.search(r"roRndUid=(\d+)", a.get("href", "")) or \
+                    re.search(r"fn_view\(\s*'(\d+)'", a.get("onclick", ""))
+                if m:
+                    uid, a_tag = m.group(1), a
+                    break
+            if not uid: continue
 
             title = a_tag.get_text(strip=True)
-            link = "https://www.ntis.go.kr" + a_tag['href']
+            link = f"https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid={uid}&flag=rndList"
             
             ministry = cols[4].get_text(strip=True)
             raw_deadline = cols[6].get_text(strip=True).replace(".", "-")
