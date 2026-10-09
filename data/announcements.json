@@ -183,19 +183,6 @@
       "business_name": "지역연구개발혁신지원(R&D)"
     },
     {
-      "title": "2026년도 우주기술혁신인재양성(RD)사업[우주항공 글로벌 인력양성 및 활용] 2차 추가공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277645&flag=rndList",
-      "ministry": "우주항공청",
-      "agency": "우주항공청",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-10-09 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "055-856-5018",
-      "amount": "50억원",
-      "business_name": "우주기술혁신인재양성(R&D)"
-    },
-    {
       "title": "중소제조 특화 Multi AI Agent 개발(RD) 점프업 Track 시행계획 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277072&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -846,5 +833,5 @@
       "business_name": "스페이스파이오니어"
     }
   ],
-  "last_checked": "2026-10-09 12:32"
+  "last_checked": "2026-10-09 16:16"
 }
