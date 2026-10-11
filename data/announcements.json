@@ -1,6 +1,97 @@
 {
   "items": [
     {
+      "title": "2027년도 제품안전관리기술개발및실증사업 기술수요조사 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279833&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-11-06 [D-26]",
+      "deadline_time": "23:59",
+      "contact": "1544-6633",
+      "amount": "0억원",
+      "business_name": "관련정보없음"
+    },
+    {
+      "title": "2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고 안내",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279831&flag=rndList",
+      "ministry": "보건복지부",
+      "agency": "한국보건산업진흥원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-12-31 [D-81]",
+      "deadline_time": "23:59",
+      "contact": "053-215-3618",
+      "amount": "781.67억원",
+      "business_name": "한국보건산업진흥원 사업공고"
+    },
+    {
+      "title": "2026년도 퀀텀(양자)플랫폼 KIST 양자기술활용연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279603&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-05 [D-25]",
+      "deadline_time": "18:00",
+      "contact": "02-958-7255",
+      "amount": "2.7억원",
+      "business_name": "퀀텀(양자)플랫폼"
+    },
+    {
+      "title": "2026년도 퀀텀(양자)플랫폼 KRISS 차세대양자연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279602&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-05 [D-25]",
+      "deadline_time": "18:00",
+      "contact": "042-868-5880",
+      "amount": "2.7억원",
+      "business_name": "퀀텀(양자)플랫폼"
+    },
+    {
+      "title": "2026년도 퀀텀(양자)플랫폼 KRISS 차세대양자연구거점사업단 차세대양자연구거점사업단양자공동연구실(JQL) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279599&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-05 [D-25]",
+      "deadline_time": "18:00",
+      "contact": "042-868-5078 , 042-869-6114",
+      "amount": "9.03억원",
+      "business_name": "퀀텀(양자)플랫폼지원"
+    },
+    {
+      "title": "2026년도 퀀텀(양자)플랫폼 KIST 양자활용연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279596&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-11-05 [D-25]",
+      "deadline_time": "18:00",
+      "contact": "042-868-5078 , 042-869-6114",
+      "amount": "18.06억원",
+      "business_name": "퀀텀(양자)플랫폼지원"
+    },
+    {
+      "title": "[ 미래전략산업 대응 뿌리기술개발사업 ] 기획을 위한 기술수요조사",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279525&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-10-15 [D-4]",
+      "deadline_time": "23:59",
+      "contact": "1544-6633",
+      "amount": "0억원",
+      "business_name": "관련정보없음"
+    },
+    {
       "title": "2026년도 한의약혁신기술개발사업 사업단장 공모안내",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279523&flag=rndList",
       "ministry": "보건복지부",
@@ -14,6 +105,45 @@
       "business_name": "한국보건산업진흥원 사업공고"
     },
     {
+      "title": "2026년도 제4차 과학기술분야 연구기획과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279317&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-10-14 [D-3]",
+      "deadline_time": "18:00",
+      "contact": "042-869-7786",
+      "amount": "5.7억원",
+      "business_name": "한국연구재단기획평가관리비(일반)(R&D)"
+    },
+    {
+      "title": "2026년 3차 전력정보화 및 정책지원사업(재생에너지분야) 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279597&flag=rndList",
+      "ministry": "기후에너지환경부",
+      "agency": "한국에너지공단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-10-20 [D-9]",
+      "deadline_time": "15:00",
+      "contact": "052-920-0684",
+      "amount": "1.85억원",
+      "business_name": "전력정보화및정책지원(전력기금)(R&D)"
+    },
+    {
+      "title": "핵심광물 공급망 안정화 전주기 기술개발사업 기술수요조사 공고(연장)",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1278938&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-10-12 [D-1]",
+      "deadline_time": "18:00",
+      "contact": "1544-6633",
+      "amount": "0억원",
+      "business_name": "관련정보없음"
+    },
+    {
       "title": "2026년도 중소벤처기업부 혁신제품 3차 규격추가 모집 안내문",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1278793&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -25,6 +155,19 @@
       "contact": "1357",
       "amount": "0억원",
       "business_name": "중소벤처기업부 혁신제품 지정사업"
+    },
+    {
+      "title": "2026년도 소재부품기술개발사업(4차) 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1278791&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-10-21 [D-10]",
+      "deadline_time": "18:00",
+      "contact": "053-718-8434",
+      "amount": "250억원",
+      "business_name": "소재부품기술개발(R&D)"
     },
     {
       "title": "2026년도 제4차 첨단재생의료 임상연구 활성화 지원 사업 신규과제 공고_2. [심화형] 첨단재생의료 임상연구 고도화 지원",
@@ -79,6 +222,19 @@
       "business_name": "지역연구개발혁신지원(R&D)"
     },
     {
+      "title": "2026년도 AI 기반 대학 과학기술 혁신사업(자율실험실) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277906&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-10-14 [D-3]",
+      "deadline_time": "18:00",
+      "contact": "042-869-6823 , 042-869-6826",
+      "amount": "10억원",
+      "business_name": "기초연구기반구축(R&D)"
+    },
+    {
       "title": "26년 국방연구개발 전력지원체계사업 주관연구개발기관 선정을 위한 공고문",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277892&flag=rndList",
       "ministry": "국방부",
@@ -102,6 +258,19 @@
       "deadline_time": "15:00",
       "contact": "062-715-4482",
       "amount": "123억원",
+      "business_name": "지역연구개발혁신지원(R&D)"
+    },
+    {
+      "title": "2026년 4극3특 동남권 과학기술혁신지원사업 연구단 모집 공고(발표평가 안내 추가)",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277844&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "연구개발특구진흥재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-10-11 [D-day]",
+      "deadline_time": "18:00",
+      "contact": "052-217-3782",
+      "amount": "123.3억원",
       "business_name": "지역연구개발혁신지원(R&D)"
     },
     {
@@ -818,7 +987,20 @@
       "contact": "042-862-1500",
       "amount": "220.2억원",
       "business_name": "스페이스파이오니어"
+    },
+    {
+      "title": "2026년도 양자연구교류지원사업(대만, 베트남, 벨기에, 이태리, 체코, 튀르키예, 프랑스) 신규과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1205127&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-12-31 [D-81]",
+      "deadline_time": "16:00",
+      "contact": "02-3460-5683 , 02-3460-5685 , 02-3460-5749 , 02-3460-5767",
+      "amount": "4.85억원",
+      "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-10-11 21:21"
+  "last_checked": "2026-10-12 00:25"
 }
