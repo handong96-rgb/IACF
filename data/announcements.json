@@ -222,19 +222,6 @@
       "business_name": "국방연구개발 전력지원체계개발사업"
     },
     {
-      "title": "2026년도 국가과학자지원사업(리더급 국가과학기술자) 공모",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277791&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-10-13 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "042-869-6694",
-      "amount": "5억원",
-      "business_name": "국가과학자지원사업"
-    },
-    {
       "title": "중소제조 특화 Multi AI Agent 개발(RD) 점프업 Track 시행계획 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277072&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -911,5 +898,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-10-14 03:37"
+  "last_checked": "2026-10-14 05:27"
 }
