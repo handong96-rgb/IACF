@@ -14,6 +14,19 @@
       "business_name": "관련정보없음"
     },
     {
+      "title": "2027년도 제조공급망강화표준물질개발사업 기술수요조사 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279830&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-11-06 [D-18]",
+      "deadline_time": "18:00",
+      "contact": "1544-6633",
+      "amount": "0억원",
+      "business_name": "관련정보없음"
+    },
+    {
       "title": "2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고 안내",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279831&flag=rndList",
       "ministry": "보건복지부",
@@ -92,6 +105,19 @@
       "business_name": "한국보건산업진흥원 사업공고"
     },
     {
+      "title": "2026년 3차 전력정보화 및 정책지원사업(재생에너지분야) 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279597&flag=rndList",
+      "ministry": "기후에너지환경부",
+      "agency": "한국에너지공단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-10-20 [D-1]",
+      "deadline_time": "15:00",
+      "contact": "052-920-0684",
+      "amount": "1.85억원",
+      "business_name": "전력정보화및정책지원(전력기금)(R&D)"
+    },
+    {
       "title": "2026년도 중소벤처기업부 혁신제품 3차 규격추가 모집 안내문",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1278793&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -116,6 +142,19 @@
       "contact": "053-718-8434",
       "amount": "250억원",
       "business_name": "소재부품기술개발(R&D)"
+    },
+    {
+      "title": "2026년도 우주기술혁신인재양성(RD)사업[우주항공 글로벌 인력양성 및 활용] 2차 추가공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277645&flag=rndList",
+      "ministry": "우주항공청",
+      "agency": "우주항공청",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-10-20 [D-1]",
+      "deadline_time": "18:00",
+      "contact": "055-856-5018",
+      "amount": "50억원",
+      "business_name": "우주기술혁신인재양성(R&D)"
     },
     {
       "title": "중소제조 특화 Multi AI Agent 개발(RD) 점프업 Track 시행계획 공고",
@@ -768,5 +807,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-10-19 21:32"
+  "last_checked": "2026-10-20 01:17"
 }
