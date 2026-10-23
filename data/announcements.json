@@ -105,6 +105,19 @@
       "business_name": "한국보건산업진흥원 사업공고"
     },
     {
+      "title": "2026년 4극3특 동남권 과학기술혁신지원사업 연구단 모집 공고(연장)",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280136&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "연구개발특구진흥재단",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-10-26 [D-3]",
+      "deadline_time": "12:00",
+      "contact": "052-217-3782",
+      "amount": "123.3억원",
+      "business_name": "지역연구개발혁신지원(R&D)"
+    },
+    {
       "title": "중소제조 특화 Multi AI Agent 개발(RD) 점프업 Track 시행계획 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1277072&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -755,5 +768,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-10-23 14:52"
+  "last_checked": "2026-10-23 20:13"
 }
