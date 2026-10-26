@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "title": "2026년도 소재부품기술개발사업(4차) 신규지원 대상과제 공고(연장)",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281297&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술기획평가원",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-10-26 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "053-718-8434",
-      "amount": "85.8억원",
-      "business_name": "소재부품기술개발(R&D)"
-    },
-    {
       "title": "2027년 뿌리산업혁신공정장비개발사업 기술수요조사",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281164&flag=rndList",
       "ministry": "산업통상부",
@@ -313,19 +300,6 @@
       "business_name": "지역연구개발혁신지원(R&D)"
     },
     {
-      "title": "2026년 4극3특 제주특별자치도 과학기술혁신지원사업 연구단 모집 공고(연장공고)_제주특자도 과학기술혁신지원",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280242&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "연구개발특구진흥재단",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-10-26 [D-day]",
-      "deadline_time": "23:59",
-      "contact": "064-754-1554",
-      "amount": "86.24억원",
-      "business_name": "지역연구개발혁신지원(R&D)"
-    },
-    {
       "title": "2026년 4극3특 중부권 과학기술혁신지원사업 연구단 모집 공고(중부권)",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280240&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -336,19 +310,6 @@
       "deadline_time": "14:00",
       "contact": "042-350-1509",
       "amount": "42억원",
-      "business_name": "지역연구개발혁신지원(R&D)"
-    },
-    {
-      "title": "2026년 4극3특 동남권 과학기술혁신지원사업 연구단 모집 공고(연장)",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280136&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "연구개발특구진흥재단",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-10-26 [D-day]",
-      "deadline_time": "12:00",
-      "contact": "052-217-3782",
-      "amount": "123.3억원",
       "business_name": "지역연구개발혁신지원(R&D)"
     },
     {
@@ -1015,5 +976,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-10-27 02:48"
+  "last_checked": "2026-10-27 05:14"
 }
