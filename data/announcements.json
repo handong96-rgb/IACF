@@ -131,6 +131,19 @@
       "business_name": "관련정보없음"
     },
     {
+      "title": "2026년도 AI 기반 주파수 간섭분석 및 전파예측기술 개발사업 신규지원 대상과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280523&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "정보통신기획평가원",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-16 [D-14]",
+      "deadline_time": "15:00",
+      "contact": "042-612-8354",
+      "amount": "6억원",
+      "business_name": "AI기반주파수간섭분석및전파예측기술개발(R&D)"
+    },
+    {
       "title": "2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고(공정·응용 솔루션 AX RD, 응용 제품 AX RD)_KHIDI",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280378&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -300,19 +313,6 @@
       "business_name": "퀀텀(양자)플랫폼지원"
     },
     {
-      "title": "2026년도 한의약혁신기술개발사업 사업단장 공모안내",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279523&flag=rndList",
-      "ministry": "보건복지부",
-      "agency": "한국보건산업진흥원",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-11-02 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "043-713-8696",
-      "amount": "1,575.9억원",
-      "business_name": "한국보건산업진흥원 사업공고"
-    },
-    {
       "title": "2026년 중소기업 연구인력지원사업(파견) 11월 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281283&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -337,19 +337,6 @@
       "contact": "02-5009-3774",
       "amount": "15억원",
       "business_name": ""
-    },
-    {
-      "title": "2026년도 투·융자 연계 기술개발사업 지원계획 수정 공고(스케일업 팁스)_(일반형, 재평가 2차) 스케일업 팁스 RD 지원계획 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281272&flag=rndList",
-      "ministry": "중소벤처기업부",
-      "agency": "중소기업기술정보진흥원",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-11-02 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "02-2280-0422 , 02-2280-0426 , 02-2280-0427",
-      "amount": "20억원",
-      "business_name": "투·융자연계기술개발(R&D)"
     },
     {
       "title": "2026년도 투·융자 연계 기술개발사업 지원계획 수정 공고(딥테크 챌린지 프로젝트_기술도전형)_(2026-DCP-54_로보틱스_딥테크 챌린지 프로젝트(DCP))",
@@ -443,5 +430,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-03 04:16"
+  "last_checked": "2026-11-03 05:58"
 }
