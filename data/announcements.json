@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "title": "임무 중심 RD체계 전환에 따른 출연연 기관평가 체계 개편방안 수립 지원 용역",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281612&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "국가과학기술연구회",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-10 [D-8]",
+      "deadline_time": "15:00",
+      "contact": "",
+      "amount": "0.15억원",
+      "business_name": ""
+    },
+    {
+      "title": "「출연연 지역조직의 지역혁신 역량 고도화 방안 기획·연구」 정책연구과제 재공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281599&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "국가과학기술연구회",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-16 [D-14]",
+      "deadline_time": "18:00",
+      "contact": "044-287-7334",
+      "amount": "2.75억원",
+      "business_name": "%ED%95%B4%EB%8B%B9%EC%97%86%EC%9D%8C"
+    },
+    {
       "title": "2027년 뿌리산업혁신공정장비개발사업 기술수요조사",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281164&flag=rndList",
       "ministry": "산업통상부",
@@ -417,5 +443,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-02 12:12"
+  "last_checked": "2026-11-02 16:30"
 }
