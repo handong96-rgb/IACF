@@ -326,19 +326,6 @@
       "business_name": "공공연연구인력파견지원(참여기업접수용)"
     },
     {
-      "title": "2026년도 한-독 2+2 국제공동기술개발사업 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1275821&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술진흥원",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-11-04 [D-day]",
-      "deadline_time": "16:00",
-      "contact": "02-5009-3774",
-      "amount": "15억원",
-      "business_name": ""
-    },
-    {
       "title": "2026년도 투·융자 연계 기술개발사업 지원계획 수정 공고(딥테크 챌린지 프로젝트_기술도전형)_(2026-DCP-54_로보틱스_딥테크 챌린지 프로젝트(DCP))",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1278998&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -430,5 +417,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-05 03:59"
+  "last_checked": "2026-11-05 05:59"
 }
