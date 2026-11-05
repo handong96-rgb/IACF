@@ -27,19 +27,6 @@
       "business_name": "%ED%95%B4%EB%8B%B9%EC%97%86%EC%9D%8C"
     },
     {
-      "title": "2027년 뿌리산업혁신공정장비개발사업 기술수요조사",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281164&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술기획평가원",
-      "form": "통합공고",
-      "type": "수요조사",
-      "deadline": "2026-11-05 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "1544-6633",
-      "amount": "0억원",
-      "business_name": "관련정보없음"
-    },
-    {
       "title": "2026년도 제3차 기계장비산업기술개발사업 신규지원 대상과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281132&flag=rndList",
       "ministry": "산업통상부",
@@ -261,58 +248,6 @@
       "business_name": "한국보건산업진흥원 사업공고"
     },
     {
-      "title": "2026년도 퀀텀(양자)플랫폼 KIST 양자기술활용연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279603&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-11-05 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "02-958-7255",
-      "amount": "2.7억원",
-      "business_name": "퀀텀(양자)플랫폼"
-    },
-    {
-      "title": "2026년도 퀀텀(양자)플랫폼 KRISS 차세대양자연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279602&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-11-05 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "042-868-5880",
-      "amount": "2.7억원",
-      "business_name": "퀀텀(양자)플랫폼"
-    },
-    {
-      "title": "2026년도 퀀텀(양자)플랫폼 KRISS 차세대양자연구거점사업단 차세대양자연구거점사업단양자공동연구실(JQL) 신규과제 공모",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279599&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-11-05 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "042-868-5078 , 042-869-6114",
-      "amount": "9.03억원",
-      "business_name": "퀀텀(양자)플랫폼지원"
-    },
-    {
-      "title": "2026년도 퀀텀(양자)플랫폼 KIST 양자활용연구거점사업단 양자공동연구실(JQL) 신규과제 공모",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279596&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "한국연구재단",
-      "form": "통합공고",
-      "type": "본공고",
-      "deadline": "2026-11-05 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "042-868-5078 , 042-869-6114",
-      "amount": "18.06억원",
-      "business_name": "퀀텀(양자)플랫폼지원"
-    },
-    {
       "title": "2026년 중소기업 연구인력지원사업(파견) 11월 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281283&flag=rndList",
       "ministry": "중소벤처기업부",
@@ -417,5 +352,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-06 04:10"
+  "last_checked": "2026-11-06 06:17"
 }
