@@ -66,19 +66,6 @@
       "business_name": "미래개척융합과학기술개발사업(한계돌파R&D)"
     },
     {
-      "title": "2027년 제1차 국가표준기술력향상사업 수요조사 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280659&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술기획평가원",
-      "form": "통합공고",
-      "type": "수요조사",
-      "deadline": "2026-11-06 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "1544-6633",
-      "amount": "0억원",
-      "business_name": "관련정보없음"
-    },
-    {
       "title": "2026년 한미 이공분야 학생인력교류 프로그램(NSF IRES) 운영지원사업 신규과제 공모",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280632&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -209,32 +196,6 @@
       "business_name": "지역거점AX혁신기술개발(R&D)"
     },
     {
-      "title": "2027년도 제품안전관리기술개발및실증사업 기술수요조사 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279833&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술기획평가원",
-      "form": "통합공고",
-      "type": "수요조사",
-      "deadline": "2026-11-06 [D-day]",
-      "deadline_time": "23:59",
-      "contact": "1544-6633",
-      "amount": "0억원",
-      "business_name": "관련정보없음"
-    },
-    {
-      "title": "2027년도 제조공급망강화표준물질개발사업 기술수요조사 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279830&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술기획평가원",
-      "form": "통합공고",
-      "type": "수요조사",
-      "deadline": "2026-11-06 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "1544-6633",
-      "amount": "0억원",
-      "business_name": "관련정보없음"
-    },
-    {
       "title": "2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고 안내",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279831&flag=rndList",
       "ministry": "보건복지부",
@@ -352,5 +313,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-07 03:38"
+  "last_checked": "2026-11-07 05:39"
 }
