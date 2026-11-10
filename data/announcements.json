@@ -79,19 +79,6 @@
       "business_name": "한국보건산업진흥원 사업공고"
     },
     {
-      "title": "2026년 생활소비재혁신기술개발사업 기술수요조사 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281955&flag=rndList",
-      "ministry": "산업통상부",
-      "agency": "한국산업기술기획평가원",
-      "form": "통합공고",
-      "type": "수요조사",
-      "deadline": "2026-11-10 [D-day]",
-      "deadline_time": "23:59",
-      "contact": "1544-6633",
-      "amount": "0억원",
-      "business_name": "관련정보없음"
-    },
-    {
       "title": "[조달청 본공고](RFP1-1-2 ⑤) 국내 연구자주도 감염병 임상시험 기획 및 네트워크 구축(호흡기 바이러스 감염증 항바이러스제 임상시험)",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281944&flag=rndList",
       "ministry": "질병관리청",
@@ -194,19 +181,6 @@
       "contact": "042-869-7862 , 042-869-7867",
       "amount": "7.375억원",
       "business_name": "국가간협력기반조성"
-    },
-    {
-      "title": "임무 중심 RD체계 전환에 따른 출연연 기관평가 체계 개편방안 수립 지원 용역",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1281612&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "국가과학기술연구회",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-11-10 [D-day]",
-      "deadline_time": "15:00",
-      "contact": "",
-      "amount": "0.15억원",
-      "business_name": ""
     },
     {
       "title": "「출연연 지역조직의 지역혁신 역량 고도화 방안 기획·연구」 정책연구과제 재공고",
@@ -404,19 +378,6 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     },
     {
-      "title": "2026년도 에너지기술 수용성 제고 및 사업화 촉진 사업 신규지원 대상 연구개발과제 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1280631&flag=rndList",
-      "ministry": "기후에너지환경부",
-      "agency": "한국에너지기술평가원",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-11-10 [D-day]",
-      "deadline_time": "18:00",
-      "contact": "02-3469-8421 , 02-3469-8426",
-      "amount": "3.2억원",
-      "business_name": "에너지기술수용성제고및사업화촉진(R&D)"
-    },
-    {
       "title": "2026년 지역거점 AX 혁신 기술개발 사업 신규지원 대상과제 공고 안내",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1279831&flag=rndList",
       "ministry": "보건복지부",
@@ -534,5 +495,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-11 03:59"
+  "last_checked": "2026-11-11 06:06"
 }
