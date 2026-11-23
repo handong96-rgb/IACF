@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title": "「K-문샷 AI 과학자 미션 분야 특화 확산을 위한 협력사업 기획 연구」 정책연구과제 공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283767&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "국가과학기술연구회",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-12-03 [D-10]",
+      "deadline_time": "18:00",
+      "contact": "042-288-9086",
+      "amount": "0.8억원",
+      "business_name": "국가과학AI연구센터"
+    },
+    {
+      "title": "「K-문샷 반도체 미션 성과제고를 위한 연구모델 기획 연구」 정책연구과제 재공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283614&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "국가과학기술연구회",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-25 [D-2]",
+      "deadline_time": "18:00",
+      "contact": "044-287-7281",
+      "amount": "0.8억원",
+      "business_name": "K-문샷추진지원사업"
+    },
+    {
+      "title": "2027년도 국립보건연구원 신규 연구용역과제(학술) 입찰 통합공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283612&flag=rndList",
+      "ministry": "보건복지부",
+      "agency": "한국보건산업진흥원",
+      "form": "통합공고",
+      "type": "본공고",
+      "deadline": "2026-12-01 [D-8]",
+      "deadline_time": "00:01",
+      "contact": "043-719-8020",
+      "amount": "1억원",
+      "business_name": "한국보건산업진흥원 사업공고"
+    },
+    {
+      "title": "2027년 농림축산검역검사기술개발사업 신규 산업체공동연구과제 참여기관 공모 재공고",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283510&flag=rndList",
+      "ministry": "농림축산식품부",
+      "agency": "농림축산검역본부",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-27 [D-4]",
+      "deadline_time": "18:00",
+      "contact": "054-912-0712",
+      "amount": "5.1억원",
+      "business_name": "농림축산검역검사기술개발"
+    },
+    {
+      "title": "2026년도 제5차 과학기술분야 연구기획과제 공모",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283512&flag=rndList",
+      "ministry": "과학기술정보통신부",
+      "agency": "한국연구재단",
+      "form": "개별공고",
+      "type": "본공고",
+      "deadline": "2026-11-26 [D-3]",
+      "deadline_time": "18:00",
+      "contact": "042-869-7786",
+      "amount": "0.5억원",
+      "business_name": "한국연구재단기획평가관리비(일반)(R&D)"
+    },
+    {
+      "title": "(기정원 연계) 2027년도 제조AX분야 산업기술RD사업 과제기획을 위한 기술수요조사",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283097&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-11-27 [D-4]",
+      "deadline_time": "18:00",
+      "contact": "1544-6633",
+      "amount": "0억원",
+      "business_name": "관련정보없음"
+    },
+    {
       "title": "「K-문샷 BCI미션 신규사업 기획을 위한 영장류 기능 뇌지도 구축 기획 연구」 정책연구과제 공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283030&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -129,6 +207,19 @@
       "contact": "02-6009-3925 , 02-6009-3934",
       "amount": "21억원",
       "business_name": "소재부품산업기술개발기반구축(R&D)"
+    },
+    {
+      "title": "2027년도 소재부품기술개발사업 소부장 특화단지 RD 기술수요조사 공고(연장)",
+      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1282515&flag=rndList",
+      "ministry": "산업통상부",
+      "agency": "한국산업기술기획평가원",
+      "form": "통합공고",
+      "type": "수요조사",
+      "deadline": "2026-12-04 [D-11]",
+      "deadline_time": "18:00",
+      "contact": "1544-6633",
+      "amount": "0억원",
+      "business_name": "관련정보없음"
     },
     {
       "title": "「바이오헬스 핵심인재 글로벌 브릿지 연수 프로그램  (KHIDI-Stanford Biodesign) 연수생 모집 공고」 안내",
@@ -456,5 +547,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-23 17:47"
+  "last_checked": "2026-11-24 02:39"
 }
