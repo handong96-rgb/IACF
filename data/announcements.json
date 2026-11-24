@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "title": "「K-문샷 AI 과학자 미션 분야 특화 확산을 위한 협력사업 기획 연구」 정책연구과제 공고",
-      "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283767&flag=rndList",
-      "ministry": "과학기술정보통신부",
-      "agency": "국가과학기술연구회",
-      "form": "개별공고",
-      "type": "본공고",
-      "deadline": "2026-12-03 [D-9]",
-      "deadline_time": "18:00",
-      "contact": "042-288-9086",
-      "amount": "0.8억원",
-      "business_name": "국가과학AI연구센터"
-    },
-    {
       "title": "「K-문샷 반도체 미션 성과제고를 위한 연구모델 기획 연구」 정책연구과제 재공고",
       "url": "https://www.ntis.go.kr/rndgate/eg/un/ra/view.do?roRndUid=1283614&flag=rndList",
       "ministry": "과학기술정보통신부",
@@ -365,5 +352,5 @@
       "business_name": "한국연구재단연구운영비지원(R&D)"
     }
   ],
-  "last_checked": "2026-11-24 10:57"
+  "last_checked": "2026-11-24 16:29"
 }
